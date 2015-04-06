@@ -673,7 +673,7 @@ function getOkGet(){
         // 本地提示：加载中...
     }else if (xmlHttp.readyState == 4){
             if((xmlHttp.status >= 200 && xmlHttp.status < 300) || xmlHttp.status == 304){
-                var d= xmlHttp.responseText;
+                var d = xmlHttp.responseText;
                 // 处理返回结果
             }else{
                 alert("Request was unsuccessful:" + xmlHttp.status);
