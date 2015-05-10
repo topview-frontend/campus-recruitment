@@ -93,16 +93,24 @@
 ####<i class="icon-pencil"></i> 2、做过的题目
 
 >[（1）前端工作面试问题](https://github.com/h5bp/Front-end-Developer-Interview-Questions/tree/master/Translations/Chinese)
+
 >[（2）Perfection Kills](http://perfectionkills.com/javascript-quiz/)  上面的JavaScript题目也很经典
+
 >[（3）牛客网上的题目](http://www.nowcoder.com/)
+
 >![牛客网上的题目](http://img.blog.csdn.net/20150509194436827)
+
 
 ####<i class="icon-pencil"></i> 3、看过的博客（因为比较多，就列出主要看的几个）
 
 >[（1）阮一峰的网络日志](http://www.ruanyifeng.com/blog/javascript/) “看了一部分里面`JavaScript`相关的内容，觉得写得非常好，通俗易懂。”
+
 >[（2）鑫空间，鑫生活](http://www.zhangxinxu.com/wordpress/) “看了一部分里面`CSS`相关的内容。”
+
 >[（3）叶小钗](http://www.cnblogs.com/yexiaochai/) “看了里面`grunt`部分的内容。”
+
 >[（4）segmentfault](http://segmentfault.com/)“上面的博客也是写得也是挺好的。”
+
 
 ####<i class="icon-pencil"></i> 4、整理总结做过的项目
 
